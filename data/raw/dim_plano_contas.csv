@@ -1,0 +1,9 @@
+id_conta,categoria,subcategoria
+100,Receitas,Vendas Comida
+101,Receitas,Vendas Bebida
+200,Custos Operacionais,CMV - Comida
+201,Custos Operacionais,CMV - Bebida
+300,Despesas com Pessoal,Salários
+301,Despesas com Pessoal,Horas Extras
+400,Despesas Gerais,Marketing e Publicidade
+401,Despesas Gerais,Renda e Serviços (Água/Luz)
