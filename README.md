@@ -1,4 +1,4 @@
-content = """# 📊 FP&A Dashboard - Rede de Restaurantes
+📊 FP&A Dashboard - Rede de Restaurantes
 
 Este projeto é uma solução de Engenharia de Dados de ponta a ponta (End-to-End) para análise financeira (FP&A) de uma rede de restaurantes. Ele simula o fluxo completo desde a geração de dados brutos de um sistema ERP até a visualização analítica em um dashboard interativo na nuvem.
 
